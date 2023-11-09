@@ -1,0 +1,6 @@
+name: MineraveLaserTag
+version: '${project.version}'
+main: net.devscape.mlr.MineraveLaserTag
+api-version: '1.13'
+authors: [DevScape]
+description: LaserTag Core for minerave

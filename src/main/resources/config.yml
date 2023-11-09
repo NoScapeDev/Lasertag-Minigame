@@ -1,0 +1,8 @@
+items:
+  back-to-hub:
+    displayname: '&c&lBack to Hub'
+    material: PAPER
+    custom-model-data: 5
+    slot: 8
+    lore:
+      - '&7Click to go back to the hub.'
